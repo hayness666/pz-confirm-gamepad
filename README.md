@@ -1,6 +1,6 @@
-# Project Zomboid Mod: Gamepad Switch Confirmation (v1.0)
+# Project Zomboid Mod: Gamepad Switch Confirmation
 
-<img src=".preview.png" alt="Gamepad Switch Confirmation Preview" width="400"/>
+<img src="./preview.png" alt="Gamepad Switch Confirmation Preview" width="400"/>
 
 ## What it does
 
